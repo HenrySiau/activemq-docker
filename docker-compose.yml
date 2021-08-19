@@ -6,5 +6,5 @@ services:
       - 61616:61616
       - 8161:8161
     # volumes:
-    #   - ./conf:opt/activemq/conf/
-    #   - ./data:opt/activemq/data/
+    #   - ./conf:opt/activemq/conf
+    #   - ./data:opt/activemq/data
